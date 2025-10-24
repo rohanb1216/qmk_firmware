@@ -114,3 +114,4 @@ via*.json
 
 # Keep firmware file
 !keyboards/keychron/*/firmware/*.bin
+qmk_firmware/lib/python3.11/site-packages/*
